@@ -1,0 +1,58 @@
+{
+    "categoryName":"Quality of Life",
+    "subcategories":{
+        "description":{
+            "subcategoryName":"Body Image",
+            "contentType":"image",
+            "basicContent":{
+                "as":{
+                    "text":"You have your natural breast.",
+                    "img":null
+                },
+                "bcs":{
+                    "text":"caption",
+                    "img":"qol-bodyimage-bcs.png"
+                },
+                "bcsr":{
+                    "text":"caption",
+                    "img":"qol-bodyimage-bcsr.png"
+                },
+                "mx":{
+                    "text":"caption",
+                    "img":"qol-bodyimage-mx.png"
+                }
+            },
+            "expandedContent":{
+
+            }
+        },
+        "successfulAdjustmentIf":{
+            "subcategoryName":"Successful adjustment if",
+            "contentType":"list",
+            "basicContent":{
+                "as":[
+                        "Accurate risk perception",
+                        "Supportive family",
+                        "A plan what to do if cancer advances"
+                    ],
+                "bcs":[
+                    "Accurate risk perception",
+                    "Supportive family",
+                    "A plan what to do if cancer advances"
+                ],
+                "bcsr":[
+                    "Accurate risk perception",
+                    "Supportive family",
+                    "A plan what to do if cancer advances"
+                ]
+
+                },
+                "expandedContent":{
+
+                }
+            }
+            
+        }
+            
+    }
+        

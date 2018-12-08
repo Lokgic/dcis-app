@@ -1,0 +1,15 @@
+{
+    "active-surveillance":{
+        "name":"Active Surveillance"
+    },
+    "breast-conserving-surgery":{
+        "name":"Breast Conserving Surgery"
+    },
+    "breast-conserving-surgery-radiation":{
+        "name":"Breast Conserving Surgery with Radiation"
+    },
+    "mastectomy":{
+        "name":"Mastectomy"
+    }
+
+}

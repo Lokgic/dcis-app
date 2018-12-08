@@ -1,0 +1,64 @@
+{
+    "categoryName":"Treatment Description",
+    "subcategories":{
+        "description":{
+            "subcategoryName":"Description",
+            "contentType":"text",
+            "basicContent":{
+                "as":"No cancer treatment: No surgery or radiation (you can choose to switch to cancer treatment option anytime)",
+                "bcs":"Breast-conserving surgery (lumpectomy), a surgery in which only the part of the breast containing cancer and some surrounding normal tissue are removed.",
+                "bcsr":"Breast-conservative surgery and radiation. After a part of the breast is removed, patients receive external beam radiation. Patients have radiation to the entire breast and radiation to the area in the breast where the cancer was removed",
+                "mx":"Mastectomy – a surgery in which the entire breast is removed, including all of the breast tissue and sometimes other nearby tissues."
+            },
+            "expandedContent":{
+
+            }
+        },
+        "tradeoffs":{
+            "subcategoryName":"Trade-Off",
+            "contentType":"tradeoffs",
+            "basicContent":{
+                "as":{
+                    "pros":[
+                        "No radiation risks or complications",
+                        "You have your natural breast",
+                        "No surgical complications"
+                    ],
+                    "cons":[
+                        "Cancer might progress faster than expected and limit your treatment options",
+                        "Frequent mammograms that have their own risks and complications"
+                    ]
+                },
+                "bcs":{
+                    "pros":[
+                        "You have your natural breast",
+                        "No radication risks or complications",
+                        "Relatively short period of recovery"
+                    ],
+                    "cons":[
+                        "Complications associated with surgical intervention (infection, pain, loss sensitivity)",
+                        "dimple where the tumor was removed",
+                        "a firm or hard surgical scar"
+                    ]
+                },
+                "bcsr":{
+                    "pros":[
+                        "You have your natural breast",
+                        "No radication risks or complications",
+                        "Relatively short period of recovery"
+                    ],
+                    "cons":[
+                        "Complications associated with surgical intervention (infection, pain, loss sensitivity)",
+                        "dimple where the tumor was removed",
+                        "a firm or hard surgical scar"
+                    ]
+                }
+            },
+            "expandedContent":{
+
+            }
+        }
+            
+    }
+        
+}
